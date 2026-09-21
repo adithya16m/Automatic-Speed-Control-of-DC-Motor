@@ -1,0 +1,26 @@
+# Arduino
+**/build/
+**/.arduinoIDE/
+*.hex
+*.elf
+*.eep
+*.map
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+_simulink_autosave/
+*.slxc
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temporary files
+*.log
+*.tmp
